@@ -13,6 +13,7 @@ I'm am an addicted Full Stack Developer and IoT Programmer with a strong foundat
 - 💼 Currently working as a Full Stack Developer at **Groweo**
 - 🏗️ Developing a fully custom CRM + ERP platform
 - 🌱 Currently learning: **Go**
+- 💼 7+ years of experience building web, mobile, IoT, and AI-powered solutions across multiple industries.
 - 🔭 Working on: **Smart Sensir Monitoring**
 - 👯 Open to collaborating on: **Web Development, IoT, SaaS, Automation, and Open Source Projects**
 - 💬 Ask me about: **Full Stack Development, System Design, APIs, Databases, and IoT**
@@ -69,6 +70,31 @@ I'm am an addicted Full Stack Developer and IoT Programmer with a strong foundat
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=eclipsemosquitto)
 ![Adafruit IO](https://img.shields.io/badge/Adafruit_IO-000000?style=for-the-badge\&logo=adafruit)
 
+### AI, Machine Learning & LLM Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-4B32C3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-009688?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge)
+![Model Fine-Tuning](https://img.shields.io/badge/Model_Fine--Tuning-FF4081?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=tensorflow)
+
+#### AI Experience
+
+* Building Retrieval-Augmented Generation (RAG) systems
+* Vector database integration and semantic search
+* LLM application development
+* Prompt engineering and evaluation
+* Model fine-tuning and training workflows
+* AI-powered business automation
+* Knowledge base and document intelligence systems
+* AI chatbot and assistant development
+
 ### Currently Building
 
 🏗️ Custom CRM & ERP Systems
@@ -76,18 +102,49 @@ I'm am an addicted Full Stack Developer and IoT Programmer with a strong foundat
 🌐 Scalable Web Platforms
 🤖 IoT & Automation Solutions
 
-
+---
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | Groweo
-**20.01.2025 - Present**
+### Full Stack Developer | Groweo Oy
 
-- Architecting and developing a custom CRM + ERP platform.
-- Building scalable APIs and backend services.
-- Designing and implementing business workflow automation.
-- Integrating third-party systems and services.
-- Optimizing database performance and application scalability.
+**01.2025 – Present | Helsinki, Finland**
+
+* Architecting and developing a custom CRM + ERP platform from the ground up.
+* Building scalable APIs, backend services, and business workflow automation.
+* Developing complex commission management and financial processing systems.
+* Integrating third-party services and enterprise business tools.
+* Optimizing database performance and application scalability.
+
+### Backend & IoT Specialist | SBOTech Oy
+
+**04.2024 – 11.2024 | Helsinki, Finland**
+
+* Designed and developed a complete Employee Management System (EMS).
+* Built backend services, frontend interfaces, and IoT hardware integrations.
+* Implemented attendance tracking and automated payroll generation.
+* Developed APIs for device communication and real-time data processing.
+* Managed system deployment and infrastructure integration.
+
+### Software Developer | AECO
+
+**2020 – 2023 | Douala, Cameroon**
+
+* Developed and maintained internal web applications and digital platforms.
+* Built custom software solutions to streamline business operations.
+* Designed and integrated RESTful APIs and database-driven systems.
+* Collaborated with stakeholders to deliver scalable digital solutions.
+* Supported system maintenance, optimization, and feature enhancements.
+
+### Mobile App Developer | WiCon Systems
+
+**03.2019 – 09.2021 | Buea, Cameroon**
+
+* Developed Android mobile applications for smart home automation systems.
+* Integrated mobile applications with IoT servers and connected devices.
+* Built real-time device monitoring and remote-control features.
+* Designed user-friendly mobile interfaces for IoT ecosystems.
+* Collaborated on backend integration and system testing.
 
 ---
 
@@ -103,7 +160,7 @@ I'm am an addicted Full Stack Developer and IoT Programmer with a strong foundat
 
 📧 Email: **sawunjia@gmail.com**
 
-💼 LinkedIn: **linkedin.com/in/awunjia-serge-atabong**
+💼 LinkedIn: **https://linkedin.com/in/awunjia-serge-atabong**
 
 🌐 Portfolio: **https://awunjia.com**
 
